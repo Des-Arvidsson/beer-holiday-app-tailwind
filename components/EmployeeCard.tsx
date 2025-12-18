@@ -134,9 +134,7 @@ export default function EmployeeCard({
   </div>
 )}
 
-     
-
-       
+      
       </div>
     </div>
   );
